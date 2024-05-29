@@ -6,30 +6,30 @@ Dataset Link: https://www.kaggle.com/datasets/4fc4197e6f85cc6cbece21e4e524f0bfa3
 
 I performed exploratory data analysis on this sales data using MySQL and gathered several insights about the dataset.
 
-Sales Analysis
+Sales Analysis:
 
 
-Total orders of the company
-Total revenue of the company
-Revenue distribution by year
-Revenue distribution by month
-Revenue distribution by quarter
-Maximum order value
+Total orders of the company.
+Total revenue of the company.
+Revenue distribution by year.
+Revenue distribution by month.
+Revenue distribution by quarter.
+Maximum order value.
 
 
-Product Analysis
+Product Analysis:
 
 
-Top 5 selling products by revenue
-Total number of products available
-Top 5 expensive products
+Top 5 selling products by revenue.
+Total number of products available.
+Top 5 expensive products.
 
 
-Customer Analysis
+Customer Analysis:
 
 
-Total number of customers
-Total customers by age group
+Total number of customers.
+Total customers by age group.
 
 
 
